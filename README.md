@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Purpose of the repository
-
+This analysis is tend to  create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
 ## description
 The analysis is done by 4 parts:
